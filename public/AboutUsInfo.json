@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Guadalupe Delaney",
+        "place": "CEO & Founder",
+        "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "key": 0
+    },
+    {
+        "name": "Evangelina Hull",
+        "place": "Product Manager",
+        "img": "https://images.unsplash.com/photo-1600603406200-5b2a104684ac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+        "key": 1
+    },
+    {
+        "name": "Misty Duran",
+        "place": "Advisor",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9m1iYvg4N6sQnFIwDBAm6YONqAV0U2Wz_1yyxn3eXfIUCkm53eyQo5BLgMPXfDfuLrk&usqp=CAU",
+        "key": 2
+    },
+    {
+        "name": "Amber Horne",
+        "place": "Chief Operating Officer",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDwQYWoUYSHdmQK_YIQdBMZvxGrn5czc0OK3XREBb6e_Bq21R8myhxnqcoNJGhi6FG3M&usqp=CAU",
+        "key": 3
+    },
+    {
+        "name": "Silvia Head",
+        "place": "HR Executive",
+        "img": "https://thumbs.dreamstime.com/b/good-results-smart-experienced-qualified-coach-standing-his-hands-closed-together-looking-members-his-team-103844157.jpg",
+        "key": 4
+    },
+    {
+        "name": "Carver Abbott",
+        "place": "Community Manager",
+        "img": "https://st2.depositphotos.com/4460577/7862/i/950/depositphotos_78627278-stock-photo-portrait-of-a-young-bearded.jpg",
+        "key": 5
+    }
+]
